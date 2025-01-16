@@ -4,6 +4,8 @@ String carModel = "Baleno";
 int carNumber = 8789;
 String carColor = "Grey";
 
+int carQuantity = 2;
+
 public void carInfo()
 {
   System.out.println("---Car Info---");
